@@ -10,7 +10,7 @@ README.md
 <h3>Full Stack Developer | MERN • Python • Flutter</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://raw.githubusercontent.com/keishore206/keishore206/main/AvatarStickers_20260226_214740_17721226609630.gif" />
+  <img align="right" width="350" src="https://raw.githubusercontent.com/keishore206/keishore206/main/AvatarStickers_20260226_220254_17721235744930.gif" />
 
   <p>
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
