@@ -6,7 +6,7 @@ Page
 /
 1
 100%
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img align="center" alt="Banner" src="https://raw.githubusercontent.com/keishore206/keishore206/main/AvatarStickers_20260226_214740_17721226609630.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
