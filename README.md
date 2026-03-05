@@ -81,14 +81,14 @@ README.md
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,oracle" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio,anitigravity" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,andriodstudio,anitigravity" />
 </td>
 </tr>
 </table>
